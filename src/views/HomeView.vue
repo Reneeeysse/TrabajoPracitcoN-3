@@ -25,7 +25,6 @@ const reservar = () => {
 
 <template>
   <div>
-    <!-- Header visible siempre -->
     <div class="container">
       <header class="header">
         <h1>Bienvenido a Aerolíneas SSJ</h1>
